@@ -3,7 +3,8 @@ package in.movies.dto;
 import lombok.Data;
 
 @Data
-public class GeneresWiseMovie {
+public class GeneresWiseMovie 
+{
 
     private String primaryTitle;
     private Integer numVotes;
